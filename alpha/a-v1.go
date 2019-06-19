@@ -3,5 +3,5 @@ package alpha
 type A struct{}
 
 func (a *A) Info() string {
-	return "Alpha - v1.0"
+	return "Alpha - v1.1"
 }
